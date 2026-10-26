@@ -1,12 +1,15 @@
-# EmployeeSystem-OOP
-ِA Java project to practice inheritance and polymorphism with different employee types (Manager, Developer, Intern).
 # Employee System 👩‍💻
 
-A Java project I made to practice **OOP Inheritance & Polymorphism**.  
+A small Java project I made to practice **inheritance and polymorphism** with different employee types.
 
-The project has:  
-- `Employee` (base class)  
-- `Manager`, `Developer`, `Intern` (inherit from Employee)  
-- `Payroll` to handle and print salaries  
+## Project Structure
 
-This is just a training project for learning OOP.
+- `Employee` — Base class.
+- `Manager`, `Developer`, and `Intern` — Employee subclasses.
+- `Payroll` — Demonstrates salary handling and output.
+
+## Tools
+
+- Java
+
+This is a training project for learning object-oriented programming.
